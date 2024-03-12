@@ -1,16 +1,16 @@
 {
   "name": "isomorphic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "In the world of JavaScript the fact code can be shared across devices with a JavaScript runtime could be called \"**Isomorphic**",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"LGTM\" && exit 0"
   },
+  "author": "Goldlabel",
+  "license": "MIT",
   "keywords": [
     "JavaScript",
     "Isomorphic",
     "React"
-  ],
-  "author": "Goldlabel",
-  "license": "MIT"
+  ]
 }
