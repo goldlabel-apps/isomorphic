@@ -1,9 +1,10 @@
+> In the world of JavaScript the fact code can be shared across devices with a JavaScript runtime could be called "**Isomorphic**"
+
 ---
 title: "Isomorphic"
 description: "JavaScript code can be deployed to any device with a JavaScript runtime"
 keywords: "JavaScript, Isomorphic, React"
 ---
-> In the world of JavaScript the fact code can be shared across devices with a JavaScript runtime could be called "**Isomorphic**"
 
 ## Deploy the same JavaScript code everywhere
 
