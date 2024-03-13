@@ -1,4 +1,4 @@
-export type FormsSlice = {
+export type IsoFormsSlice = {
     fullscreen: boolean
     title: string
 }

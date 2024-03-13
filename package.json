@@ -2,7 +2,6 @@
   "version": "1.0.2",
   "name": "isomorphic",
   "description": "Vanilla ES6 flavoured",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"LGTM\" && exit 0"
   },

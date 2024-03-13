@@ -1,4 +1,4 @@
-export type LinguaSlice = {
+export type IsoLinguaSlice = {
     fullscreen: boolean
     locale: string
 }

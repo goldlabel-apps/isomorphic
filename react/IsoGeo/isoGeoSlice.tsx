@@ -1,6 +1,6 @@
-import {GeoSlice} from "./types"
+import {IsoGeoSlice} from "./types"
 
-export const geoSlice: GeoSlice = {
+export const isoGeoSlice: IsoGeoSlice = {
     fullscreen: false,
     default: {
         lat: 35.872015923874095,
@@ -9,4 +9,4 @@ export const geoSlice: GeoSlice = {
     }
 }
 
-export default geoSlice
+export default isoGeoSlice

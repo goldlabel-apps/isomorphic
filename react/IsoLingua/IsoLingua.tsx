@@ -3,19 +3,19 @@ import {
   Box,
   CardContent,
 } from "@mui/material"
-import {
-  usePwaSelect,
-  selectLingua,
-} from "../../../goldlabel"
+// import {
+//   usePwaSelect,
+//   selectLingua,
+// } from "../../../goldlabel"
 
-export function Lingua() {
-  const lingua = usePwaSelect(selectLingua)
+export function IsoLingua() {
+  // const lingua = usePwaSelect(selectLingua)
   
   return (<>
             <Box sx={{}}>
               <CardContent>
                 <Box sx={{}}>
-                  <pre>lingua:{JSON.stringify(lingua, null, 2)}</pre>
+                IsoLingua
                 </Box>
               </CardContent>
             </Box>

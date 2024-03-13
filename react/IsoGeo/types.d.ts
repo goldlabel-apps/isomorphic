@@ -1,4 +1,4 @@
-export type GeoSlice = {
+export type IsoGeoSlice = {
     fullscreen: boolean
     default: {
         lat: number
