@@ -3,13 +3,13 @@ import {
   Box,
   CardContent,
 } from "@mui/material"
-import {
-  usePwaSelect,
-  selectFlash,
-} from "../../../goldlabel"
+// import {
+//   usePwaSelect,
+//   selectFlash,
+// } from "../../../goldlabel"
 
-export function Flash() {
-  const flash = usePwaSelect(selectFlash)
+export function IsoFlash() {
+  // const flash = usePwaSelect(selectFlash)
   return (<>
             <Box sx={{m:0}}>
               <CardContent>
