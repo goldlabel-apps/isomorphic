@@ -1,7 +1,7 @@
-import {Lingua} from "./Lingua"
-import linguaSlice from "./linguaSlice"
+import {IsoLingua} from "./IsoLingua"
+import isoLinguaSlice from "./isoLinguaSlice"
 
 export {
-    Lingua,
-    linguaSlice,
+    IsoLingua,
+    isoLinguaSlice,
 }

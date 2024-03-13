@@ -1,7 +1,7 @@
-import {Forms} from "./Forms"
-import formsSlice from "./formsSlice"
+import {IsoForms} from "./IsoForms"
+import isoFormsSlice from "./isoFormsSlice"
 
 export {
-    Forms,
-    formsSlice,
+    IsoForms,
+    isoFormsSlice,
 }
