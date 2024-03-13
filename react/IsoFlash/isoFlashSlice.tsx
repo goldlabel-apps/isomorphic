@@ -1,8 +1,8 @@
 import {FlashSlice} from "./types"
 
-export const flashSlice: FlashSlice = {
+export const isoFlashSlice: FlashSlice = {
     fullscreen: false,
     title: "This is Flash. Hello.",
 }
 
-export default flashSlice
+export default isoFlashSlice

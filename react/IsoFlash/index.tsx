@@ -1,7 +1,7 @@
-import {Flash} from "./Flash"
-import flashSlice from "./flashSlice"
+import {IsoFlash} from "./IsoFlash"
+import isoFlashSlice from "./isoFlashSlice"
 
 export {
-    Flash,
-    flashSlice,
+    IsoFlash,
+    isoFlashSlice,
 }
