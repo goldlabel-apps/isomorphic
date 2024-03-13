@@ -1,6 +1,6 @@
-import {Geo} from "./Geo"
-import geoState from "./geoSlice"
+import {IsoGeo} from "./IsoGeo"
+import isoGeoSlice from "./isoGeoSlice"
 export {
-    Geo,
-    geoState,
+    IsoGeo,
+    isoGeoSlice,
 }
