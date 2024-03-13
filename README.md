@@ -1,16 +1,10 @@
-> In the world of JavaScript the fact code can be shared across devices with a JavaScript runtime could be called "**Isomorphic**"
+# Isomorphic JavaScript
 
----
-title: "Isomorphic"
-description: "JavaScript code can be deployed to any device with a JavaScript runtime"
-keywords: "JavaScript, Isomorphic, React"
----
+> In the world of JavaScript the fact code can be shared across devices with a JavaScript runtime could be called "**Isomorphic**". It can also mean code which can be deployed to any device with a JavaScript runtime
 
-## Deploy the same JavaScript code everywhere
+In a world of a bazillion platforms, frameworks, devices and runtimes; our code runs on them all. Pure JavaScript. Vanilla ES6 flavoured.
 
-In a world of a bazillion platforms, frameworks, devices and runtimes; this code runs on them all. Pure JavaScript. Vanilla ES6 flavoured
-
-### Here's why it's useful
+### Why is Isomorphic useful?
 
 Isomorphic JavaScript, aka Universal JavaScript, refers to the ability to write code that can run both on the client-side (in a web browser) and on the server-side (on a server)
 
